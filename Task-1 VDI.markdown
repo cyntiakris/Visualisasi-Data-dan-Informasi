@@ -10,7 +10,7 @@
 Visualisasi data adalah salah satu hal yang sangat penting dalam dunia basis data masa kini, yang membantu pengambilan keputusan yang berkaitan dengan pendapatan beberapa perusahaan industri. Ilmuwan data sangat dibutuhkan untuk membuat visualisasi data yang efisien dikarenakan tingginya permintaan pemrosesan data terkait volume, kecepatan dan kebenaran data. 
 
 Dengan memperhatikan alur visualisasi data dapat membuat visualisasi yang lebih efisien dan relevan, diantaranya terdapat 3 aspek yang dibahas, yaitu:
-1. Spesifikasi visualisasi: membuat visualisasi sesuai kebutuhan.
+1. Spesifikasi Visualisasi: membuat visualisasi sesuai kebutuhan.
 2. Pendekatan Efisien untuk Visualisasi Data: membuat visualisasi dengan cepat dan skalabel dengan pendekatan efisien.
 3. Rekomendasi Visualisasi Data: membuat visualisasi agar mudah dipahami.
 
