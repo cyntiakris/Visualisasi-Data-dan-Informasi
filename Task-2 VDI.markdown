@@ -44,6 +44,7 @@ Gambar diatas dapat dilihat adalah sebuah visualisasi dari data harga saham yait
 >	Mudah dipahami tanpa penjelasan tambahan: Akan mudah dipahami oleh audiens yang berbeda. Label angka yang jelas pada sumbu vertikal (nilai atau harga) dan sumbu horizontal (tanggal atau waktu) membantu pembaca untuk memahami perubahan data dengan cepat tanpa memerlukan interpretasi tambahan. Desainnya juga bersih dan langsung menyampaikan informasi yang dituju.
 
 >	Tidak menyesatkan: Menunjukkan data secara jujur dan transparan. Tidak ada distorsi skala pada sumbu, yang kadang bisa terjadi dalam visualisasi yang tidak etis. Sumbu Y menunjukkan skala yang konsisten, memastikan bahwa pembaca dapat melihat tren yang sebenarnya.
+
 Dari ke 4 poin yang telah dianalisis, dapat dikatakan bahwa visualisasi dari data harga saham memenuhi ke 4 poin sehingga, visualisasi tersebut adalah visualisasi yang baik **(Good Visualization)**.
 
 
